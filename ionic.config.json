@@ -1,0 +1,8 @@
+{
+  "name": "galatina",
+  "app_id": "e29ee022",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
